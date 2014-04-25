@@ -5,4 +5,5 @@ ola
 
 git pull
 git pull origin master
-git push
+
+oi
