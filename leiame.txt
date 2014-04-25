@@ -2,4 +2,5 @@ Esse repositório contém a descrição de alguns sanduíches.
 
 ola
 
+git pull origin master
 git push
